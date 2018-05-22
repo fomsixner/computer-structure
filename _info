@@ -1,0 +1,308 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/intelFPGA/17.1.0
+vaddl
+Z1 !s110 1526818256
+!i10b 1
+!s100 fHh`dIjCQFJl08`iejOWB0
+I[XZioNVOgX>b?:eL]hFzB0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1526817709
+8E:/verilog/2rd_lab/addl.v
+FE:/verilog/2rd_lab/addl.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1526818256.000000
+!s107 E:/verilog/2rd_lab/addl.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/addl.v|
+!i113 1
+Z5 o-work 2rd_lab
+Z6 tCvgOpt 0
+vALU
+Z7 !s110 1526819777
+!i10b 1
+!s100 hOSPH6kb9>EQ:TC]aA<oz0
+IkZB6n??nnczY8LlPceZ@<2
+R2
+R0
+w1526816995
+8E:/verilog/2rd_lab/ALU.v
+FE:/verilog/2rd_lab/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1526819777.000000
+!s107 E:/verilog/2rd_lab/ALU.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vdec3_8
+Z9 !s110 1526819506
+!i10b 1
+!s100 m1`U5W3A[;<he3n?Ym6FJ0
+IiUEo^dHVFMQOLEQ]Bf@_G3
+R2
+R0
+w1526818717
+8E:/verilog/2rd_lab/dec3_8.v
+FE:/verilog/2rd_lab/dec3_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1526819505.000000
+!s107 E:/verilog/2rd_lab/dec3_8.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/dec3_8.v|
+!i113 1
+R5
+R6
+vflopr
+Z10 !s110 1526821116
+!i10b 1
+!s100 VNK<kz3<a5:j33@>XBhnh2
+I8dmcS1OMgkf=4_@R39@WQ0
+R2
+R0
+w1526821014
+8E:/verilog/2rd_lab/flopr.v
+FE:/verilog/2rd_lab/flopr.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1526821115.000000
+!s107 E:/verilog/2rd_lab/flopr.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/flopr.v|
+!i113 1
+R5
+R6
+vfsm
+Z11 !s110 1526822541
+!i10b 1
+!s100 iF>M8G0^YE`UFFzE`C>D30
+IJeKF1_K1DzOX:ImOW8;fE2
+R2
+R0
+w1526822336
+8E:/verilog/2rd_lab/fsm.v
+FE:/verilog/2rd_lab/fsm.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1526822541.000000
+!s107 E:/verilog/2rd_lab/fsm.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/fsm.v|
+!i113 1
+R5
+R6
+vmux2
+Z13 !s110 1526823599
+!i10b 1
+!s100 b;WnDR0FF0YQa8bKIBbbN3
+I`I:`D3W4`YM2[OJi?i;Om2
+R2
+R0
+w1526823573
+8E:/verilog/2rd_lab/mux2.v
+FE:/verilog/2rd_lab/mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z14 !s108 1526823599.000000
+!s107 E:/verilog/2rd_lab/mux2.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/mux2.v|
+!i113 1
+R5
+R6
+vregFile
+Z15 !s110 1526822050
+!i10b 1
+!s100 UW2G5[n2KQOVfIm<JEfY62
+ICId4Sfm2WY;9VZKf=MF0M3
+R2
+R0
+w1526821485
+8E:/verilog/2rd_lab/regFile.v
+FE:/verilog/2rd_lab/regFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z16 !s108 1526822050.000000
+!s107 E:/verilog/2rd_lab/regFile.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/regFile.v|
+!i113 1
+R5
+R6
+nreg@file
+vtest_addl
+R1
+!i10b 1
+!s100 fXzmjCdel;4UUZV2PEMIQ1
+IVG1DeoAGaY0^]BRMiLiaY1
+R2
+R0
+w1526818244
+8E:/verilog/2rd_lab/test_addl.v
+FE:/verilog/2rd_lab/test_addl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/verilog/2rd_lab/test_addl.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/test_addl.v|
+!i113 1
+R5
+R6
+vtest_ALU
+R7
+!i10b 1
+!s100 :=]zV9D_G5o]>b_94[1f02
+IRdlezmc`BDGmlO5NWdS_X2
+R2
+R0
+w1526819769
+8E:/verilog/2rd_lab/test_ALU.v
+FE:/verilog/2rd_lab/test_ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 E:/verilog/2rd_lab/test_ALU.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/test_ALU.v|
+!i113 1
+R5
+R6
+ntest_@a@l@u
+vtest_dec3_8
+R9
+!i10b 1
+!s100 U7ARGj3MXZCh@mjeK9N@f3
+I;U`1eeQ`_eXNal0kK:Z0V3
+R2
+R0
+w1526819495
+8E:/verilog/2rd_lab/test_dec3_8.v
+FE:/verilog/2rd_lab/test_dec3_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1526819506.000000
+!s107 E:/verilog/2rd_lab/test_dec3_8.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/test_dec3_8.v|
+!i113 1
+R5
+R6
+vtest_flopr
+R10
+!i10b 1
+!s100 W5UMm5X;CoY`nTh;S7ZI12
+I_KD4`F6>ZXLLTK>Y;aJO71
+R2
+R0
+w1526821108
+8E:/verilog/2rd_lab/test_flopr.v
+FE:/verilog/2rd_lab/test_flopr.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1526821116.000000
+!s107 E:/verilog/2rd_lab/test_flopr.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/test_flopr.v|
+!i113 1
+R5
+R6
+vtest_fsm
+R11
+!i10b 1
+!s100 T`ANC]D^?MdD1_YBQEcfA0
+If9a4blQ[S1<NBIE=<^[:f3
+R2
+R0
+w1526822539
+8E:/verilog/2rd_lab/test_fsm.v
+FE:/verilog/2rd_lab/test_fsm.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 E:/verilog/2rd_lab/test_fsm.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/test_fsm.v|
+!i113 1
+R5
+R6
+vtest_mux2
+R13
+!i10b 1
+!s100 CYnVcJ?IGg6JecWZ6oI9H2
+IgP[k^JH@Og[ElHWk;AF<L2
+R2
+R0
+w1526823482
+8E:/verilog/2rd_lab/test_mux2.v
+FE:/verilog/2rd_lab/test_mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 E:/verilog/2rd_lab/test_mux2.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/test_mux2.v|
+!i113 1
+R5
+R6
+vtest_regFile
+R15
+!i10b 1
+!s100 =Wof@R:IYljVOfz^HfMR41
+IGRf>mBQ]G`GXTcjG1UaIU3
+R2
+R0
+w1526822043
+8E:/verilog/2rd_lab/test_regFile.v
+FE:/verilog/2rd_lab/test_regFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/verilog/2rd_lab/test_regFile.v|
+!s90 -reportprogress|300|-work|2rd_lab|E:/verilog/2rd_lab/test_regFile.v|
+!i113 1
+R5
+R6
+ntest_reg@file
